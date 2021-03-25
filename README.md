@@ -2,7 +2,7 @@
 - 👀 I’m interested in createing 3d art and animation!
 - 🌱 I’m currently learning how to use Unreal Engine.
 - 💞️ I’m looking to collaborate on nothing as of now.
-- 📫 How to reach me TejasHaveri20@gmail.com or @
+- 📫 How to reach me TejasHaveri20@gmail.com 
 
 <!---
 TejasHaveri-Dev/TejasHaveri-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
